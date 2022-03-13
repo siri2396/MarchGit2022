@@ -7,6 +7,8 @@ public class Demo {
 	public void demo() {
 		System.out.println("@TEST:demo()");
 		System.out.println("@TEST:hi()");
+		System.out.println("@TEST:git()");
+		System.out.println("@TEST:adedd()");
 	}
 	
 }
